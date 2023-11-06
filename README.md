@@ -9,7 +9,7 @@ Esta é uma aplicação simples que calcula o valor total de uma dívida com bas
 2. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/DFmaximo/App_calculo_juros.git
 ```
 
 3. Navegue até o diretório do projeto:
