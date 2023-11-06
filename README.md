@@ -27,7 +27,7 @@ npm install
 5. Execute o programa:
 
 ```bash
-node nome-do-arquivo.js
+node Aplicacao_calculo_juros.js
 ```
 
 6. Siga as instruções para inserir o valor devido e o número de dias atrasados.
